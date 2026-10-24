@@ -107,4 +107,3 @@ Model names change often. If you get a "model not found" error, change `MODEL` i
 
 ## Next
 
-Project 2: RAG over company filings, with an evaluation set to measure answer quality.
